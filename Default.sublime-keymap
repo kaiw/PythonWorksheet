@@ -1,0 +1,8 @@
+[
+	{ "keys": ["ctrl+alt+`"], "command": "show_python_worksheet" },
+	{ "keys": ["ctrl+enter"], "command": "run_python_worksheet", "context":
+		[
+			{ "key": "selector", "operator": "equal", "operand": "source.python" }
+		]
+	}
+]

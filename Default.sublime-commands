@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "PythonWorksheet: Open a Python worksheet",
+        "command": "show_python_worksheet"
+    },
+    {
+        "caption": "PythonWorksheet: Run the current worksheet",
+        "command": "run_python_worksheet"
+    },
+    {
+        "caption": "PythonWorksheet: Clear the current worksheet",
+        "command": "clear_python_worksheet"
+    }
+]
