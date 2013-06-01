@@ -15,7 +15,7 @@ Commands
 Keyboard shortcuts
 ------------------
 
-* Open a Python worksheet - `Ctrl + Alt + \``
+* Open a Python worksheet - ``Ctrl + Alt + ` ``
 * Run the current worksheet - `Ctrl + Enter`
 
 
